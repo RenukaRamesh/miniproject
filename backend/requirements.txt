@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+joblib
+firebase-admin
+python-multipart
+pydantic
+email-validator
+requests
+sendgrid
